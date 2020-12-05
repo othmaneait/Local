@@ -3,9 +3,3 @@ Merci.
 Merci Monsieur .
 merci madame
  okey
-<<<<<<< HEAD
- this is the ci cd 
-the is the master change 
-=======
-
->>>>>>> othmane
