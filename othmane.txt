@@ -1,6 +1,13 @@
 
 Merci.
 Merci Monsieur .
+<<<<<<< HEAD
 merci madame
  okey
 
+=======
+merci madame and this is the rebase change
+okey
+this is the ci cd 
+voila othmane le test
+>>>>>>> othmane3
