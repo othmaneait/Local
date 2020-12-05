@@ -28,7 +28,7 @@ It will prompt you for a folder name to store the saved images in - this folder 
 Next : run update_video3.py, make sure you have the right "_desc.json" file in the directory where you run these scripts from.
 You can find the correct file for this in the folder that you made when you ran "ytapithumbget.py"
 
-Watch the video guide to set up the API and run the code on our 'RedAndGreen YouTube channel' : https://www.youtube.com/watch?v=8h17wxgqNXY
+Watch the video othmane to set up the API and run the code on our 'RedAndGreen YouTube channel' : https://www.youtube.com/watch?v=8h17wxgqNXY
 
 Also check out our new code to make a multipage PDF from every YouTube video thumbnail and description:  	
 https://github.com/RGGH/rng/blob/master/pdf_demo.py : 
