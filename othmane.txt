@@ -3,8 +3,5 @@ Merci.
 Merci Monsieur .
 merci madame
  okey
-<<<<<<< HEAD
-=======
 this is the test
 
->>>>>>> othmane
